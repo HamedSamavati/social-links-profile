@@ -4,8 +4,8 @@
 
 ## Welcome! 👋
 
-The link to access my live solution for this challege is as follows:
-* https://hamedsamavati.github.io/social-links-profile/ *
+# The link to access my live solution for this challege is as follows:
+ https://hamedsamavati.github.io/social-links-profile/ 
 
 # Frontend Mentor - Social links profile solution
 
